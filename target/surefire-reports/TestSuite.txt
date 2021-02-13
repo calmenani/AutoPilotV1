@@ -1,0 +1,72 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 1, Time elapsed: 610.414 s <<< FAILURE! - in TestSuite
+testCases.TC_Login.setup[chrome](0)  Time elapsed: 608.681 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+session not created
+from timeout: Timed out receiving message from renderer: 600.000
+  (Session info: chrome=87.0.4280.88)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'L31286WIN', ip: '192.168.1.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0113C0C3+3326147]
+	Ordinal0 [0x01020851+2164817]
+	Ordinal0 [0x00EA7298+619160]
+	Ordinal0 [0x00E9B17F+569727]
+	Ordinal0 [0x00E9A421+566305]
+	Ordinal0 [0x00E9A815+567317]
+	Ordinal0 [0x00E9A135+565557]
+	Ordinal0 [0x00EA38B1+604337]
+	Ordinal0 [0x00E9A0F1+565489]
+	Ordinal0 [0x00E9AEA2+568994]
+	Ordinal0 [0x00E9A421+566305]
+	Ordinal0 [0x00E9A815+567317]
+	Ordinal0 [0x00E9A135+565557]
+	Ordinal0 [0x00EA1D2C+597292]
+	Ordinal0 [0x00E9A0F1+565489]
+	Ordinal0 [0x00E9AEA2+568994]
+	Ordinal0 [0x00E9A421+566305]
+	Ordinal0 [0x00E9A815+567317]
+	Ordinal0 [0x00E9A135+565557]
+	Ordinal0 [0x00E9FE62+589410]
+	Ordinal0 [0x00E9A0F1+565489]
+	Ordinal0 [0x00E9AEA2+568994]
+	Ordinal0 [0x00E9A421+566305]
+	Ordinal0 [0x00E9A815+567317]
+	Ordinal0 [0x00E9A135+565557]
+	Ordinal0 [0x00E9F075+585845]
+	Ordinal0 [0x00E9A0F1+565489]
+	Ordinal0 [0x00E9AEA2+568994]
+	Ordinal0 [0x00E9A421+566305]
+	Ordinal0 [0x00E9A815+567317]
+	Ordinal0 [0x00E9A135+565557]
+	Ordinal0 [0x00E96776+550774]
+	Ordinal0 [0x00E9A0F1+565489]
+	Ordinal0 [0x00E99F13+565011]
+	Ordinal0 [0x00E99D07+564487]
+	Ordinal0 [0x00EA82C0+623296]
+	Ordinal0 [0x00E46BDD+224221]
+	Ordinal0 [0x00E45CAC+220332]
+	Ordinal0 [0x00E4189B+202907]
+	Ordinal0 [0x00E23DF4+81396]
+	Ordinal0 [0x00E24DEE+85486]
+	Ordinal0 [0x00E24D79+85369]
+	Ordinal0 [0x010385DC+2262492]
+	GetHandleVerifier [0x012C2874+1487204]
+	GetHandleVerifier [0x012C23CD+1486013]
+	GetHandleVerifier [0x012CA368+1518680]
+	GetHandleVerifier [0x012C2F4E+1488958]
+	Ordinal0 [0x0102ED0D+2223373]
+	Ordinal0 [0x0103A12B+2269483]
+	Ordinal0 [0x0103A26F+2269807]
+	Ordinal0 [0x0104ECB8+2354360]
+	BaseThreadInitThunk [0x76B6FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x771C75F4+228]
+	RtlGetAppContainerNamedObjectPath [0x771C75C4+180]
+
+
+testCases.TC_Login.tearDown  Time elapsed: 1.312 s  <<< FAILURE!
+java.lang.NullPointerException
+

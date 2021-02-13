@@ -1,0 +1,15 @@
+testCases\TC_Login2.class
+programs\PlayWithStrings.class
+utilities\Reporting.class
+programs\SortArray.class
+programs\RotateArray.class
+utilities\ReadConfig.class
+testCases\BaseClass.class
+testCases\CheckTestNGAnnotations.class
+testCases\TC_LogOut.class
+pageObjects\LoginPage.class
+utilities\XLUtils.class
+programs\Permutation.class
+programs\SortArrays.class
+pageObjects\LogOut.class
+testCases\TC_Login.class
