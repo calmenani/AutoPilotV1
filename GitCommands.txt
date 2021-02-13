@@ -1,0 +1,7 @@
+Git remote repo https://github.com/calmenani/AutoPilotV1.git
+git init	- create an empty local repo
+git add -A	-Add all files to staging area
+git config --global user.name "calmenani"
+git config --global user.email "calmenani@gmail.com"
+git commit -m "Adding auto pilot to git"
+git push -u origin master -to push all files to remote repository
