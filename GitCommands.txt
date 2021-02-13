@@ -5,3 +5,4 @@ git config --global user.name "calmenani"
 git config --global user.email "calmenani@gmail.com"
 git commit -m "Adding auto pilot to git"
 git push -u origin master -to push all files to remote repository
+git pull origin master  -To take all latest changes from remote repository
