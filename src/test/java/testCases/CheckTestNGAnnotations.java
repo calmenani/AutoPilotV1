@@ -19,6 +19,23 @@ public class CheckTestNGAnnotations {
 	@Listeners
 	@Parameters
 	@Test
+O/p-
+BeforeSuite
+BeforeTest
+BeforeClass
+BeforeMethod
+Test
+AfterMethod
+AfterClass
+AfterTest
+PASSED: Test
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+AfterSuite
 	*/
 	@BeforeSuite
 	public void BeforeSuite() {System.out.println("BeforeSuite");}

@@ -2,44 +2,44 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="114" started-at="2021-02-13T18:40:12 IST" finished-at="2021-02-13T18:40:12 IST">
+  <suite name="Default suite" duration-ms="52" started-at="2021-02-15T13:13:30 IST" finished-at="2021-02-15T13:13:30 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="114" started-at="2021-02-13T18:40:12 IST" finished-at="2021-02-13T18:40:12 IST">
+    <test name="Default test" duration-ms="52" started-at="2021-02-15T13:13:30 IST" finished-at="2021-02-15T13:13:30 IST">
       <class name="testCases.CheckTestNGAnnotations">
-        <test-method status="PASS" signature="BeforeSuite()[pri:0, instance:testCases.CheckTestNGAnnotations@e320068]" name="BeforeSuite" is-config="true" duration-ms="31" started-at="2021-02-13T18:40:12 IST" finished-at="2021-02-13T18:40:12 IST">
+        <test-method status="PASS" signature="BeforeSuite()[pri:0, instance:testCases.CheckTestNGAnnotations@17d677df]" name="BeforeSuite" is-config="true" duration-ms="13" started-at="2021-02-15T13:13:30 IST" finished-at="2021-02-15T13:13:30 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeSuite -->
-        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:testCases.CheckTestNGAnnotations@e320068]" name="BeforeTest" is-config="true" duration-ms="0" started-at="2021-02-13T18:40:12 IST" finished-at="2021-02-13T18:40:12 IST">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:testCases.CheckTestNGAnnotations@17d677df]" name="BeforeTest" is-config="true" duration-ms="1" started-at="2021-02-15T13:13:30 IST" finished-at="2021-02-15T13:13:30 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeTest -->
-        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:testCases.CheckTestNGAnnotations@e320068]" name="BeforeClass" is-config="true" duration-ms="1" started-at="2021-02-13T18:40:12 IST" finished-at="2021-02-13T18:40:12 IST">
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:testCases.CheckTestNGAnnotations@17d677df]" name="BeforeClass" is-config="true" duration-ms="0" started-at="2021-02-15T13:13:30 IST" finished-at="2021-02-15T13:13:30 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeClass -->
-        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:testCases.CheckTestNGAnnotations@e320068]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2021-02-13T18:40:12 IST" finished-at="2021-02-13T18:40:12 IST">
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:testCases.CheckTestNGAnnotations@17d677df]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2021-02-15T13:13:30 IST" finished-at="2021-02-15T13:13:30 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeMethod -->
-        <test-method status="PASS" signature="Test()[pri:0, instance:testCases.CheckTestNGAnnotations@e320068]" name="Test" duration-ms="17" started-at="2021-02-13T18:40:12 IST" finished-at="2021-02-13T18:40:12 IST">
+        <test-method status="PASS" signature="Test()[pri:0, instance:testCases.CheckTestNGAnnotations@17d677df]" name="Test" duration-ms="8" started-at="2021-02-15T13:13:30 IST" finished-at="2021-02-15T13:13:30 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test -->
-        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:testCases.CheckTestNGAnnotations@e320068]" name="AfterMethod" is-config="true" duration-ms="1" started-at="2021-02-13T18:40:12 IST" finished-at="2021-02-13T18:40:12 IST">
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:testCases.CheckTestNGAnnotations@17d677df]" name="AfterMethod" is-config="true" duration-ms="1" started-at="2021-02-15T13:13:30 IST" finished-at="2021-02-15T13:13:30 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethod -->
-        <test-method status="PASS" signature="AfterClass()[pri:0, instance:testCases.CheckTestNGAnnotations@e320068]" name="AfterClass" is-config="true" duration-ms="1" started-at="2021-02-13T18:40:12 IST" finished-at="2021-02-13T18:40:12 IST">
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:testCases.CheckTestNGAnnotations@17d677df]" name="AfterClass" is-config="true" duration-ms="1" started-at="2021-02-15T13:13:30 IST" finished-at="2021-02-15T13:13:30 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterClass -->
-        <test-method status="PASS" signature="AfterTest()[pri:0, instance:testCases.CheckTestNGAnnotations@e320068]" name="AfterTest" is-config="true" duration-ms="0" started-at="2021-02-13T18:40:12 IST" finished-at="2021-02-13T18:40:12 IST">
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:testCases.CheckTestNGAnnotations@17d677df]" name="AfterTest" is-config="true" duration-ms="0" started-at="2021-02-15T13:13:30 IST" finished-at="2021-02-15T13:13:30 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterTest -->
-        <test-method status="PASS" signature="AfterSuite()[pri:0, instance:testCases.CheckTestNGAnnotations@e320068]" name="AfterSuite" is-config="true" duration-ms="2" started-at="2021-02-13T18:40:12 IST" finished-at="2021-02-13T18:40:12 IST">
+        <test-method status="PASS" signature="AfterSuite()[pri:0, instance:testCases.CheckTestNGAnnotations@17d677df]" name="AfterSuite" is-config="true" duration-ms="0" started-at="2021-02-15T13:13:30 IST" finished-at="2021-02-15T13:13:30 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterSuite -->

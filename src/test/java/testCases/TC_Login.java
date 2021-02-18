@@ -20,7 +20,7 @@ public class TC_Login extends BaseClass {
         if(driver.getTitle().equalsIgnoreCase("Interaction Portal"))
         Assert.assertEquals(driver.getTitle(), "Interaction Portal");
         else
-        	captureScreen(driver, "loginDDT");
+        	captureScreen(driver, "loginTest");
         logger.info("Login test passed");
         loginOut();
     }
